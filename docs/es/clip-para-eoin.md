@@ -1,7 +1,7 @@
 # Un clip para Eoin
 
 *Lo que pido mañana en Almáciga, en una página. Sin torres, sin satélites.
-Solo un vídeo de cinco minutos.*
+Solo material en bruto para un vídeo de cinco minutos.*
 
 ---
 
@@ -16,19 +16,22 @@ nosotros.
 ## Lo que pido
 
 - Que alguien con dron o GoPro, de los que ya están grabando el campeonato,
-  me pase **unos minutos de material en bruto**: la bahía desde arriba, una
-  serie entrando, un *drop* visto desde el agua, la arena negra, la gente.
+  me pase **material en bruto, tal cual sale de la cámara**: la bahía desde
+  arriba, una serie entrando, un *drop* visto desde el agua, la arena negra,
+  la gente. No hace falta cortar nada; lo monto yo más adelante.
+- Cómo pasármelo: un enlace de Drive, WeTransfer o lo que uséis, o
+  directamente por AirDrop / Quick Share a mi móvil aquí en la playa. Si
+  necesitáis mi correo, está abajo.
 - Si nadie tiene tiempo, lo grabo yo con el móvil desde la orilla. Pero el
   dron lo cambia todo: Eoin no puede ponerse de pie, y desde arriba se ve lo
   que él nunca vería.
-- **Pago el tiempo de edición** a quien quiera montarlo: cinco minutos, sin
-  música estridente, sin logos, sin rótulos. Olas, sonido del mar, alguna voz
-  de la playa. Nada más.
+- Si alguien **quiere** además montar cinco minutos, lo pago. Pero no es la
+  petición de hoy; hoy solo pido el bruto.
 
 ## Lo que ofrezco
 
-- Pagar el montaje, sin regateo.
-- Crédito a quien grabe y a quien edite, si lo quieren.
+- Pagar el tiempo, el bruto o el montaje, sin regateo.
+- Crédito a quien grabe, siempre.
 - Que el clip sea de ellos también: lo pueden usar para el campeonato, la
   escuela o lo que quieran.
 - Contar en Irlanda, y donde haga falta, que esto salió de Almáciga.
@@ -37,7 +40,7 @@ nosotros.
 
 Ni patrocinios, ni cambios en el campeonato, ni tecnología nueva en la playa.
 Eso es otra conversación, para otro día, y solo si a vosotros os apetece.
-Mañana solo quiero un vídeo para un amigo.
+Mañana solo quiero material para hacerle un vídeo a un amigo.
 
 ## Por qué importa
 
@@ -69,8 +72,9 @@ mirando el agua, acércate; si no, pregunta por mí en la carpa de la escuela.
 | 7 | Un *heat* completo visto desde arriba | 60 s | Dron a media altura, siguiendo a uno |
 | 8 | La playa vaciándose al final del día | 30 s | Cierre |
 
-Sonido: mar, viento, voces lejanas. Nada de música encima. Si alguien quiere
-decirle algo a Eoin a cámara, diez segundos, en el idioma que sea.
+Sonido: mar, viento, voces lejanas; nada de música encima. Si alguien quiere
+decirle algo a Eoin a cámara, diez segundos, en el idioma que sea. Formato:
+el que tengáis, sin recomprimir; mejor demasiado que poco.
 
 ---
 
@@ -86,19 +90,21 @@ beach with us.
 
 ## What I am asking
 
-- Someone already filming with a drone or GoPro passes me **a few minutes of
-  raw footage**: the bay from above, a set rolling in, a drop seen from the
-  water, the black sand, the people.
-- If nobody has time, I shoot it from the shore with my phone. But the drone
+- Someone already filming with a drone or GoPro passes me **raw footage,
+  straight off the card**: the bay from above, a set rolling in, a drop seen
+  from the water, the black sand, the people. No need to cut anything; I will
+  edit it later.
+- How to hand it over: a Drive or WeTransfer link, or AirDrop / Quick Share
+  to my phone right here on the beach. My email is below if you need it.
+- If nobody has time, I shoot from the shore with my phone. But the drone
   changes everything: Eoin cannot stand up, and from above you see what he
   never would.
-- **I pay for the edit**, whoever wants to cut it: five minutes, no loud
-  music, no logos, no titles. Waves, the sound of the sea, a voice or two from
-  the beach. Nothing else.
+- If someone **also** wants to cut five minutes, I pay for it. But that is not
+  today's ask; today I only ask for the raw material.
 
 ## What I offer
 
-Payment for the edit, no haggling. Credit to whoever shoots and cuts it. The
+Payment for the time, raw or edited, no haggling. Credit to whoever shoots. The
 clip is theirs too, for the championship or the school. And I will tell people
 in Ireland, and wherever it matters, that it came out of Almáciga.
 
@@ -106,7 +112,7 @@ in Ireland, and wherever it matters, that it came out of Almáciga.
 
 No sponsorship, no changes to the competition, no new technology on the beach.
 That is another conversation, another day, only if you feel like it. Tomorrow
-I just want a video for a friend.
+I just want footage to make a video for a friend.
 
 ## Why it matters
 
