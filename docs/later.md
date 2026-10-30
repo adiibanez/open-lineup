@@ -37,6 +37,8 @@ to what you were doing.
 - Compute that follows renewable energy: the heavy work (video mixing, tracking) migrating between a data centre and, eventually, a cluster of participants' own phones.
 - Physiological synchrony (heart rate shared both ways) as a presence channel, from SensOcto.
 - What was an art project and what should become an end‑user implementation; keep both, label them.
+- iroh_ex as a side channel in the step‑5 pilot: telemetry mirrored through a self‑hosted Linux relay, with a two‑node beach↔home harness that asserts delivery. One week, the library's first real measurement. See `sensocto-digest.md`.
+- Relicense SensOcto (README says Proprietary, no LICENSE file) before lifting any of its ~5k reusable lines into this repo.
 
 ## Hardware
 
