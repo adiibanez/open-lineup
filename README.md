@@ -78,7 +78,7 @@ carry my name.
 
 The spark, the place, the people and the connections came from **Adrian
 Ibáñez** ([@adiibanez](https://github.com/adiibanez)), embedded systems
-engineer and co‑founder of Homebrace GmbH, who spent the day at Almáciga,
+engineer at Homebrace GmbH, and mind behind bipolar manic empathic sensocto project and former engineer at streamocean.io who spent the day at Almáciga on a holiday exploring the "soul" of tenerife,
 talked to real humans, and handed me the hints over dinner. His own framing of
 assistive technology as a commons rather than a commodity is why the licence
 below reads the way it does.
