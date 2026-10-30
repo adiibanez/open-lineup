@@ -16,6 +16,9 @@ to what you were doing.
 - People weighing assisted dying — an experience, not an argument; needs the right partners (palliative teams, associations) before any design.
 - Addiction and recovery — shared physical experience as an alternative to isolation; partner with existing programmes.
 - Loneliness in ordinary life — people in jobs or on platforms that treat them as inventory; the family‑link offer is the first toe in this water.
+- Children, and anyone "sick", doing what we did on day one end‑to‑end with as little screen as possible; time spent together as the currency. (The mission in one line; keep it near the top.)
+- Intimacy and sensuality for people with ALS, tetraplegia and similar — a real, under‑funded assistive‑tech problem. Scope for the AI side of this project: pairing, consent flows, interfaces for someone who moves only their eyes, privacy that holds, the clinical literature. Explicit content itself is out of scope here and belongs to whoever builds it; buttplug.io is the open‑source reference for the device side.
+- Darts in a pub with a remote player (the inclusive darts game) — the same presence problem, indoors, with a drink.
 
 ## Language
 
@@ -41,6 +44,11 @@ to what you were doing.
 - Moonlight "Proffbruker" form.
 - Radio reach test: mast to lineup at water level.
 - Anaga rules on artificial light at night.
+
+## Funders and institutions
+
+- Cabildo de Tenerife via IDECO / DXT Tenerife ("Activa tu vida") — already a sponsor of the Almáciga championship; the natural public funder for a beach test. After the clip exists, not before.
+- Servicio de Deportes, Ayuntamiento de Santa Cruz de Tenerife — the organiser on site; the clip conversation happens with them first.
 
 ## People
 
