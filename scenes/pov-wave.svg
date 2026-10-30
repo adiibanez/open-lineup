@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg aria-label="First-person view from a surfboard riding a wave at dusk, the nose of the board at the bottom, the wave face curling on the left, cliffs on the horizon" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="psky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1B2B44"/><stop offset="1" stop-color="#C98A5B"/></linearGradient>
+<linearGradient id="pwave" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E4A63"/><stop offset="1" stop-color="#4C8FB0"/></linearGradient>
+</defs>
+<rect width="960" height="540" fill="url(#psky)"/>
+<path d="M0 250 L0 190 L80 200 L150 160 L240 200 L330 230 L400 250 Z" fill="#26332E"/>
+<path d="M960 250 L960 170 L880 190 L810 220 L740 250 Z" fill="#26332E"/>
+<rect x="0" y="250" width="960" height="290" fill="#3C6E8F"/>
+<path d="M0 540 L0 300 Q 120 180 300 230 Q 420 270 520 330 Q 640 400 960 420 L960 540 Z" fill="url(#pwave)"/>
+<path d="M0 300 Q 120 180 300 230 Q 380 255 440 290" fill="none" stroke="#EAF2F4" stroke-width="14" stroke-linecap="round" opacity="0.9"/>
+<path d="M40 330 Q 150 240 290 265" fill="none" stroke="#EAF2F4" stroke-width="4" opacity="0.5"/>
+<path d="M700 430 q40 -8 80 0 t80 0" fill="none" stroke="#EAF2F4" stroke-width="3" opacity="0.5"/>
+<path d="M430 540 L480 380 L530 540 Z" fill="#F4F1EA"/>
+<path d="M455 540 L480 420 L505 540 Z" fill="#E89B2C" opacity="0.6"/>
+</svg>

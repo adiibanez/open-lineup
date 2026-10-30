@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Open Lineup mark: a warm lamp dot on black sand, a teal wave, and a second dot far out in the lineup joined to the first by an arc">
+  <rect width="512" height="512" rx="96" fill="#0E1B2A"/>
+  <!-- the arc: one person on land, one in the lineup, joined -->
+  <path d="M132 352 C 160 180, 352 180, 380 300" fill="none" stroke="#E89B2C" stroke-width="14" stroke-linecap="round" stroke-dasharray="2 30"/>
+  <!-- the wave -->
+  <path d="M40 332 C 100 300, 140 300, 196 332 S 292 364, 348 332 S 444 300, 500 332" fill="none" stroke="#2A9D8F" stroke-width="26" stroke-linecap="round"/>
+  <path d="M40 332 C 100 300, 140 300, 196 332 S 292 364, 348 332 S 444 300, 500 332 L 512 512 L 0 512 Z" fill="#2A9D8F" opacity="0.18"/>
+  <!-- black sand -->
+  <path d="M0 404 C 120 388, 240 400, 360 392 S 480 398, 512 392 L512 512 L0 512 Z" fill="#1A1A1E"/>
+  <!-- the lamp on the sand -->
+  <circle cx="132" cy="352" r="34" fill="#E89B2C"/>
+  <circle cx="132" cy="352" r="52" fill="#E89B2C" opacity="0.22"/>
+  <!-- the rider in the lineup -->
+  <circle cx="380" cy="300" r="22" fill="#F4F1EA"/>
+</svg>
