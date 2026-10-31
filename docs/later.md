@@ -20,6 +20,9 @@ to what you were doing.
 - Intimacy and sensuality for people with ALS, tetraplegia and similar — a real, under‑funded assistive‑tech problem. Scope for the AI side of this project: pairing, consent flows, interfaces for someone who moves only their eyes, privacy that holds, the clinical literature. Explicit content itself is out of scope here and belongs to whoever builds it; buttplug.io is the open‑source reference for the device side.
 - Darts in a pub with a remote player (the inclusive darts game) — the same presence problem, indoors, with a drink.
 - A dreaming mode: a scheduled session with no task that re‑reads the notes and writes odd adjacencies to `docs/dreams/`, labelled as dreams, never plans; a human prunes in daylight. Design it on a day that isn't a competition day.
+- "Quien está en casa sostiene la luz": fold the principle from `docs/dreams/2026-10-31-la-luz.md` into `concept.md` and the decks — the remote rider holds the light/camera as a role, automatic tracking is the fallback. Daylight edit, not a night one.
+- A name and a face for the AI side of this project: Adrián proposes *Beija‑flor* (hummingbird, Brazilian Portuguese). Needs a small image in the brand folder; note the samba‑school namesake in Rio.
+- Canarian / guanche culture research line: Güímar pyramids, Anaga, the people met on the beach. For the Spanish texts and for the place; not for this month.
 
 ## Language
 
